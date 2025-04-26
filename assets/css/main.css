@@ -650,15 +650,14 @@ section,
   width: 100%;
   min-height: 80vh;
   position: relative;
-  padding: 120px 0 60px 0;
   display: flex;
   align-items: center;
-  background: url(../img/hero-bg.jpg);
+  background: url(../img/faabeh.jpg);
 }
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 30%);
+  background: color-mix(in srgb, var(--background-color), transparent 15%);
   position: absolute;
   inset: 0;
   z-index: 2;
